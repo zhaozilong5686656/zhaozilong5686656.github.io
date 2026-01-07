@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53eebe29-6faf-4e4b-b9a5-0748ce4a8121" name="更改" comment="h5编辑器">
-      <change beforePath="$PROJECT_DIR$/h5edit/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/h5edit/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53eebe29-6faf-4e4b-b9a5-0748ce4a8121" name="更改" comment="h5编辑器" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +41,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nginx\html\h5editor" />
       <recent name="D:\nginx\html\h5editor\h5edit" />
     </key>
   </component>
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767753293935</updated>
-      <workItem from="1767753295439" duration="1033000" />
+      <workItem from="1767753295439" duration="1390000" />
     </task>
     <task id="LOCAL-00001" summary="h5编辑器">
       <option name="closed" value="true" />
@@ -75,7 +74,55 @@
       <option name="project" value="LOCAL" />
       <updated>1767753615706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754374523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754374523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754380314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754380314</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754422353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754422353</updated>
+    </task>
+    <task id="LOCAL-00006" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754568044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754568044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754574160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754574160</updated>
+    </task>
+    <task id="LOCAL-00008" summary="h5编辑器">
+      <option name="closed" value="true" />
+      <created>1767754686539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754686539</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
